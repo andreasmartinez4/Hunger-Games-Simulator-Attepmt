@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1579813454 source:c:\users\andre\onedrive\important programs\hunger games simulator\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+	"player.h"
+	"story.h"
+	"Map.h"
+	"Opponent.h"
+	"Weapon.h"
+	"Item.h"
+	"Events.h"
+
+1579820923 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\story.cpp
+	"story.h"
+	"player.h"
+	"Item.h"
+	<iostream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	<string>
+	<cctype>
+	<limits>
+
+1579820193 c:\users\andre\onedrive\important programs\hunger games simulator\include\story.h
+	<vector>
+	"player.h"
+	"Map.h"
+	"Weapon.h"
+	"Item.h"
+	"Opponent.h"
+	"Events.h"
+
+1576010715 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\player.cpp
+	"player.h"
+	<iostream>
+
+1579043932 c:\users\andre\onedrive\important programs\hunger games simulator\include\player.h
+	<iostream>
+	"Weapon.h"
+	"Opponent.h"
+
+1578004312 c:\users\andre\onedrive\important programs\hunger games simulator\include\map.h
+	<iostream>
+	<vector>
+
+1577988847 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\map.cpp
+	"Map.h"
+	<conio.h>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+	<vector>
+	<windows.h>
+	<stdio.h>
+	"conio.h"
+
+1579816925 c:\users\andre\onedrive\important programs\hunger games simulator\include\opponent.h
+	"Weapon.h"
+	<cstdlib>
+	<ctime>
+
+1579816943 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\opponent.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	"Opponent.h"
+	"Item.h"
+
+1578798855 c:\users\andre\onedrive\important programs\hunger games simulator\include\weapon.h
+	<iostream>
+	<vector>
+
+1578174253 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\weapon.cpp
+	"Weapon.h"
+
+1577216061 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\item.cpp
+	"Item.h"
+	<iostream>
+
+1578420365 c:\users\andre\onedrive\important programs\hunger games simulator\include\item.h
+	<iostream>
+	<Weapon.h>
+
+1579644863 c:\users\andre\onedrive\important programs\hunger games simulator\include\events.h
+	<iostream>
+	"Opponent.h"
+	"Weapon.h"
+	"player.h"
+	<limits>
+
+1579816760 source:c:\users\andre\onedrive\important programs\hunger games simulator\src\events.cpp
+	<iostream>
+	"Events.h"
+	"Weapon.h"
+	"player.h"
+	"Opponent.h"
+
